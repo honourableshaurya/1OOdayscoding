@@ -9,4 +9,5 @@ int main(){
     scanf("%d", &b);
     printf("Area of rectangle is = %d, Perimeter of rectangle is = %d", l * b, 2*(l * b));
     return 0;
+
 }
